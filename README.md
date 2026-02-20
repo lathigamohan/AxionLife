@@ -190,8 +190,12 @@ npm start
 ---
 
 ## License
+Copyright (c) 2026 Lathiga
 
-AxionLife is released under the **MIT License**. See [LICENSE](LICENSE) for details.
+All rights reserved.
 
+This repository is for **viewing and learning purposes only**.  
+
+No part of this project may be copied, modified, distributed, or used commercially without explicit permission from the author. You may view the code, understand the workflow, and explore its architecture, but you **cannot edit, fork, or sell** any part of this repository. 
 ---
 
